@@ -202,7 +202,7 @@ Make sure you save this file before moving on.
 **Explain Each Query**
  
 **2.** Click on the ``package.json`` file within your ``contract`` folder. We need to modify the version to ``0.0.3`` so that we can upgrade our existing chaincode. Please notice was ``lines 2 & 3`` should look like in our ``package.json`` file.
- ::
+::
  
   "name": "papercontract",
   "version": "0.0.3",
